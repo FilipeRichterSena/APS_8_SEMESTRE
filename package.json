@@ -1,0 +1,27 @@
+{
+  "name": "aps_2019",
+  "version": "1.0.0",
+  "description": "APS Sustentabilidade 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurAlves01/aps_2019.git"
+  },
+  "author": "Arthur Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurAlves01/aps_2019/issues"
+  },
+  "homepage": "https://github.com/arthurAlves01/aps_2019#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "pug": "^2.0.4",
+    "request": "^2.88.0",
+    "sqlite3": "^4.2.0"
+  }
+}
